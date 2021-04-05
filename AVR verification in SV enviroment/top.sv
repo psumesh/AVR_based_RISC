@@ -1,5 +1,5 @@
 `include "interface.sv"
-`include "top.v"
+`include "../AVR_based_RISC/top.v"
 `include "pkt.sv"
 `include "producer.sv"
 `include "driver.sv"
