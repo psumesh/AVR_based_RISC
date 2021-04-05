@@ -4,7 +4,7 @@ import uvm_pkg::*;
 `include "txn_pkg.sv"
 `include "interface.sv"
 `include "sequence.sv"
-`include "top.v"
+`include "../AVR_based_RISC/top.v"
 `include "sequencer.sv"
 `include "driver.sv"
 `include "monitor.sv"
