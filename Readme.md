@@ -1,8 +1,8 @@
-An Verilog Implementation of 8 bit RISC Processor based on AVR ISA
+A Verilog Implementation of 8 bit RISC Processor based on AVR ISA
 
 Features :
 
-a) 32 instructions including Arithmetic, Logical, Load, Store, Branch, Jump, Call, each of 16 bits wide
+a) 32 instructions including Arithmetic, Logical, Load, Store, Branch, Jump, Call, each of 16 bits frame
 
 b) 8 bit ALU
 
