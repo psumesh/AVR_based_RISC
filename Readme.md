@@ -1,4 +1,4 @@
-#A Verilog Implementation of 8 bit RISC Processor based on AVR ISA
+# A Verilog Implementation of 8 bit RISC Processor based on AVR ISA
 
 Features :
 
