@@ -1,5 +1,7 @@
 # A Verilog Implementation of 8 bit RISC Processor based on AVR ISA
 
+* Core verification
+
 Features :
 
 a) 32 instructions including Arithmetic, Logical, Load, Store, Branch, Jump, Call, each of 16 bits frame
