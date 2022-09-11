@@ -1,7 +1,7 @@
 Ultrabotix Pvt. Ltd
 https://www.ultrabotix.com
 
-Processor: VEGA Processor
+Processor: VEGA
 https://youtu.be/ObhPlSDs8TA
 
 
