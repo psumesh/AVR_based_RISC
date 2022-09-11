@@ -1,6 +1,9 @@
-© Ultrabotix Pvt. Ltd 
+Ultrabotix Pvt. Ltd
+https://www.ultrabotix.com
 
-owner : https://www.ultrabotix.com
+Processor: VEGA Processor
+https://youtu.be/ObhPlSDs8TA
+
 
 # A Verilog Implementation of 8 bit RISC Processor based on AVR ISA
 
@@ -20,7 +23,7 @@ e) 512 byte program memory
 
 f) Pipelined/Non-pipelined
 
-g) Max operating frequency of 100Mhz
+g) Max operating frequency tested : 100Mhz
 
 h) One input and one output port
 
